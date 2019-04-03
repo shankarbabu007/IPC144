@@ -1,2 +1,2 @@
 # IPC144
-Contact System using C
+Building a searchable and efficient Contact System using C.
